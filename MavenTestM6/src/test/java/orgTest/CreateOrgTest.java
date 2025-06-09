@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class CreateOrgTest {
 	@Test
-	public void case3() {
+	public void case4() {
 		System.out.println("Organization 3");
 	}
 }
