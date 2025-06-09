@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-08T14:09:21 IST" name="Surefire suite" finished-at="2025-06-08T14:09:21 IST" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2025-06-08T14:09:21 IST" name="Surefire test" finished-at="2025-06-08T14:09:21 IST" duration-ms="37">
+      <class name="orgTest.CreateOrgTest">
+        <test-method signature="case3()[pri:0, instance:orgTest.CreateOrgTest@1a04f701]" started-at="2025-06-08T14:09:21 IST" name="case3" finished-at="2025-06-08T14:09:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case3 -->
+      </class> <!-- orgTest.CreateOrgTest -->
+      <class name="contactTest.CreateConTest">
+        <test-method signature="case1()[pri:0, instance:contactTest.CreateConTest@4df50bcc]" started-at="2025-06-08T14:09:21 IST" name="case1" finished-at="2025-06-08T14:09:21 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+      </class> <!-- contactTest.CreateConTest -->
+      <class name="orgTest.CreateOrgWithPhoneTest">
+        <test-method signature="case4()[pri:0, instance:orgTest.CreateOrgWithPhoneTest@4e91d63f]" started-at="2025-06-08T14:09:21 IST" name="case4" finished-at="2025-06-08T14:09:21 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case4 -->
+      </class> <!-- orgTest.CreateOrgWithPhoneTest -->
+      <class name="contactTest.CreateConWithTypeTest">
+        <test-method signature="case2()[pri:0, instance:contactTest.CreateConWithTypeTest@2f112965]" started-at="2025-06-08T14:09:21 IST" name="case2" finished-at="2025-06-08T14:09:21 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2 -->
+      </class> <!-- contactTest.CreateConWithTypeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

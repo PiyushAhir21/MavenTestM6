@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-06T14:44:59 IST" name="Suite" finished-at="2025-06-06T14:44:59 IST" duration-ms="98">
+    <groups>
+    </groups>
+    <test started-at="2025-06-06T14:44:59 IST" name="Test" finished-at="2025-06-06T14:44:59 IST" duration-ms="98">
+      <class name="contactTest.CreateConTest">
+        <test-method signature="case1()[pri:0, instance:contactTest.CreateConTest@397fbdb]" started-at="2025-06-06T14:44:59 IST" name="case1" finished-at="2025-06-06T14:44:59 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+      </class> <!-- contactTest.CreateConTest -->
+      <class name="contactTest.CreateConWithTypeTest">
+        <test-method signature="case1()[pri:0, instance:contactTest.CreateConWithTypeTest@618b19ad]" started-at="2025-06-06T14:44:59 IST" name="case1" finished-at="2025-06-06T14:44:59 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+      </class> <!-- contactTest.CreateConWithTypeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
